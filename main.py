@@ -4,7 +4,7 @@ import sqlite3
 import aspose.pdf as ap
 from aiogram.types import InputFile
 
-bot = Bot('6466520874:AAHs2JLdpoNA5BSdQUzwxLjq4JG5-ro0PAM')
+bot = Bot('TOKEN')
 
 dp = Dispatcher(bot)
 db_name = 'users.db'
